@@ -1,0 +1,17 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "name": "Proyecto 1",
+        "path_image": "/images/project1.jpg",
+        "description": "Descripción del Proyecto 1"
+        
+      },
+      {
+        "id": 2,
+        "name": "Proyecto 2",
+        "path_image": "/images/project2.jpg",
+        "description": "Descripción del Proyecto 2"
+      }
+    ]
+  }
