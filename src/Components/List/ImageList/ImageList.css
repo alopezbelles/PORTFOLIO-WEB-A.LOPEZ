@@ -29,4 +29,12 @@
     scale: 1.05;
     transition: 0.5s;
     cursor: pointer;
+    filter: opacity(90%);
+    
 }
+
+@media screen and (max-width:1000px) {
+    .image-container {
+        width: calc((80% - 100px) / 1);
+    }
+  }
