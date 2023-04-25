@@ -1,21 +1,22 @@
 [
   {
+    "id": 0,
     "path_image": "https://drive.google.com/uc?id=1PRXmFzO6hnGc-uIgjt1bNFWB3KVww1tL",
     "name": "Security Share",
     "description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-    "image1": "/Assets/SecurityShare/mockup-ipad-lr.png",
+    "image1": "/Assets/SecurityShare/mockup-lr.png",
     "github": "https://github.com/alopezbelles/App-Icloud.C"
   },
   {
+    "id": 1,
     "path_image": "https://drive.google.com/uc?id=1gM8KKDynqZQLmBjkyUA8Y58K6mFTRFNF",
     "name": "Waves App",
-    "description": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
-    "image1": "/Assets/SecurityShare/mockup-ipad-lr.png",
+    "description": "El siguiente ejercicio consiste en el diseño y desarrollo de un FRONTEND para la APP WAVES, que ofrece una selección de ubicaciones para surfistas. Este FRONTEND conecta con una API envía peticiones una BASE DE DATOS SQL almacenada en RAILWAY, donde se encuentra toda la información necesaria para el correcto funcionamiento de la aplicación. 🌊",
+    "image1": "/Assets/Waves/responsive.png",
     "github": "https://github.com/alopezbelles/FRONTEND-FP-GEEKSHUBS"
-
-
   },
   {
+    "id": 2,
     "path_image": "https://drive.google.com/uc?id=1ma14d7O4E8p2mF1D0nlOLYxHABeS4uT_",
     "name": "Asian Food",
     "description": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
@@ -23,6 +24,7 @@
     "github": "https://github.com/alopezbelles/web-restaurante-ejercicio"
   },
   {
+    "id": 3,
     "path_image": "https://drive.google.com/uc?id=14Yzu1BkUayoE25adbqA4CA_ut-EC03wc",
     "name": "Book-Zone",
     "description": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
@@ -30,18 +32,19 @@
     "github": "https://github.com/alopezbelles/orbys-frontend"
   },
   {
+    "id": 4,
     "path_image": "https://drive.google.com/uc?id=1pPNu5ScudMNnN96OCsTgqUCFvIG74k34",
     "name": "Café Oslo",
     "description": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
     "image1": "/Assets/SecurityShare/mockup-ipad-lr.png",
     "github": "https://github.com/alopezbelles/web-cafeteria"
   },
-
   {
+    "id": 5,
     "path_image": "https://drive.google.com/uc?id=18BhQq7UDRwry4yq5x3djsnjz3naCeXal",
     "name": "Super Eight",
     "description": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
     "image1": "/Assets/SecurityShare/mockup-ipad-lr.png",
-    "github": "https://github.com/alopezbelles/frontend-react-videoclub-ejercicio"
+    "github": "https://github.com/alopezbelles/frontend"
   }
 ]

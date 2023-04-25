@@ -1,0 +1,26 @@
+.imageProject{
+    width: 50em;
+    margin: 2em 2em;
+}
+
+.tittleProject{
+    font-family: 'Gloria Hallelujah', cursive;
+    margin-bottom: 2em;
+    margin-top: 2em;
+    font-size: 55px;
+}
+
+.projectsDesign p{
+    font-family: 'Gloria Hallelujah', cursive;
+    width: 80%;
+
+
+}
+.projectsDesign{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}

@@ -7,6 +7,7 @@ import Contact from "./Containers/Contact/Contact";
 import Experience from "./Containers/Experience/Experience";
 import Header from "./Components/Header/Header";
 import Footer from "./Components/Footer/Footer";
+import Projects from "./Containers/Projects/Projects"
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/experience" element={<Experience />} />
+          <Route path="/projects/:id" element={<Projects/>} />
         </Routes>
         <Footer />
       </BrowserRouter>
