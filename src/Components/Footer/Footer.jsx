@@ -12,9 +12,17 @@ import './Footer.css';
 
 function Footer(){
     return(
-        <div>
-            <h1>Soy Footer</h1>
-        </div>
+        <Container fluid className="containerFooter">
+      <Col>
+        <p>
+          All rights reserved © 2023 Share Security. The content of this website
+          is protected by copyright and other intellectual property laws.
+        </p>
+      </Col>
+      <Col>
+        <p>sharesecurity@sharesecurity.com</p>
+      </Col>
+    </Container>
     )
 }
 

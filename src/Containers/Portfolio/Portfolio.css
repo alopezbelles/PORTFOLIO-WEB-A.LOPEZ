@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+
+
+body {
+  background-color: #f3f4ef;
+}
+
+.portfolioDesign {
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+.logoHome {
+  width: 15em;
+}
+
+
+.col1Portfolio{
+    font-family: 'Gloria Hallelujah', cursive;
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
