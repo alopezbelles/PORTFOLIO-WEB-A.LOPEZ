@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "path_image": "https://drive.google.com/uc?id=1PRXmFzO6hnGc-uIgjt1bNFWB3KVww1tL",
+    "path_image": "https://drive.google.com/uc?id=1DHHuPpheyaffUHFz6uvYr0M2inVoNs_y",
     "name": "Security Share",
     "description": ["'Waves' es una aplicación diseñada para surfistas que muestra una selección con las mejores ubicaciones para practicar Surf 🌊.",
     "La aplicación permite el registro de nuevos usuarios, el guardado de las ubicaciones y su gestión en el área de usuario. El FRONTEND conecta con una API envía peticiones una BASE DE DATOS SQL almacenada en RAILWAY, donde se encuentra toda la información necesaria para el correcto funcionamiento de la aplicación. "
@@ -16,7 +16,7 @@
   },
   {
     "id": 1,
-    "path_image": "https://drive.google.com/uc?id=1gM8KKDynqZQLmBjkyUA8Y58K6mFTRFNF",
+    "path_image": "https://drive.google.com/uc?id=1dwNobesV4PdLTlKa8k3lx7IyRY69u3Kw",
     "name": "Waves App",
     "description": ["'Waves' es una aplicación diseñada para surfistas que muestra una selección con las mejores ubicaciones para practicar Surf 🌊.",
     "La aplicación permite el registro de nuevos usuarios, el guardado de las ubicaciones y su gestión en el área de usuario. El FRONTEND conecta con una API envía peticiones una BASE DE DATOS SQL almacenada en RAILWAY, donde se encuentra toda la información necesaria para el correcto funcionamiento de la aplicación. "
@@ -31,7 +31,7 @@
   },
   {
     "id": 2,
-    "path_image": "https://drive.google.com/uc?id=18BhQq7UDRwry4yq5x3djsnjz3naCeXal",
+    "path_image": "https://drive.google.com/uc?id=1yND_-WPe_GAEvPr_M_QOCX-CCYtD5N8n",
     "name": "Super Eight",
     "description": ["'Waves' es una aplicación diseñada para surfistas que muestra una selección con las mejores ubicaciones para practicar Surf 🌊.",
     "La aplicación permite el registro de nuevos usuarios, el guardado de las ubicaciones y su gestión en el área de usuario. El FRONTEND conecta con una API envía peticiones una BASE DE DATOS SQL almacenada en RAILWAY, donde se encuentra toda la información necesaria para el correcto funcionamiento de la aplicación. "
@@ -46,7 +46,7 @@
   },
   {
     "id": 3,
-    "path_image": "https://drive.google.com/uc?id=1ma14d7O4E8p2mF1D0nlOLYxHABeS4uT_",
+    "path_image": "https://drive.google.com/uc?id=1cfvecN7s6aK9Ot-M18PFqyx9DCe7z-i-",
     "name": "Asian Food",
     "description": ["'Waves' es una aplicación diseñada para surfistas que muestra una selección con las mejores ubicaciones para practicar Surf 🌊.",
     "La aplicación permite el registro de nuevos usuarios, el guardado de las ubicaciones y su gestión en el área de usuario. El FRONTEND conecta con una API envía peticiones una BASE DE DATOS SQL almacenada en RAILWAY, donde se encuentra toda la información necesaria para el correcto funcionamiento de la aplicación. "
@@ -61,7 +61,7 @@
   },
   {
     "id": 4,
-    "path_image": "https://drive.google.com/uc?id=14Yzu1BkUayoE25adbqA4CA_ut-EC03wc",
+    "path_image": "https://drive.google.com/uc?id=1oE7VzSlAU3DAGWv2c6ytDIicR1yIiffz",
     "name": "Book-Zone",
     "description": ["'Waves' es una aplicación diseñada para surfistas que muestra una selección con las mejores ubicaciones para practicar Surf 🌊.",
     "La aplicación permite el registro de nuevos usuarios, el guardado de las ubicaciones y su gestión en el área de usuario. El FRONTEND conecta con una API envía peticiones una BASE DE DATOS SQL almacenada en RAILWAY, donde se encuentra toda la información necesaria para el correcto funcionamiento de la aplicación. "
@@ -73,7 +73,7 @@
   },
   {
     "id": 5,
-    "path_image": "https://drive.google.com/uc?id=1pPNu5ScudMNnN96OCsTgqUCFvIG74k34",
+    "path_image": "https://drive.google.com/uc?id=1-XFvH8VhFDNCK_b80HLDJ0wU_DCJTQDz",
     "name": "Café Oslo",
     "description": ["'Waves' es una aplicación diseñada para surfistas que muestra una selección con las mejores ubicaciones para practicar Surf 🌊.",
     "La aplicación permite el registro de nuevos usuarios, el guardado de las ubicaciones y su gestión en el área de usuario. El FRONTEND conecta con una API envía peticiones una BASE DE DATOS SQL almacenada en RAILWAY, donde se encuentra toda la información necesaria para el correcto funcionamiento de la aplicación. "
