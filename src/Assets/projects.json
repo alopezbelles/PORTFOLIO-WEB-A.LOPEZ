@@ -36,7 +36,12 @@
     "description": ["'Waves' es una aplicación diseñada para surfistas que muestra una selección con las mejores ubicaciones para practicar Surf 🌊.",
     "La aplicación permite el registro de nuevos usuarios, el guardado de las ubicaciones y su gestión en el área de usuario. El FRONTEND conecta con una API envía peticiones una BASE DE DATOS SQL almacenada en RAILWAY, donde se encuentra toda la información necesaria para el correcto funcionamiento de la aplicación. "
   ],
-    "image1": "/Assets/SecurityShare/mockup-ipad-lr.png",
+    "image1": "/Assets/SuperEight/responsive-super-eight.png",
+    "image2": "/Assets/SuperEight/alejandro-lopez-portfolio-super-eight-movies.png",
+    "image3": "/Assets/SuperEight/alejandro-lopez-portfolio-super-eight.png",
+    "image4": "/Assets/SuperEight/alejandro-lopez-portfolio-super-eight-about.png",
+    "image5": "/Assets/SuperEight/alejandro-lopez-portfolio-super-eight-user.png",
+    "image6": "/Assets/SuperEight/mockup-ipad-super-eight-loans.png",
     "github": "https://github.com/alopezbelles/frontend"
   },
   {
@@ -61,7 +66,9 @@
     "description": ["'Waves' es una aplicación diseñada para surfistas que muestra una selección con las mejores ubicaciones para practicar Surf 🌊.",
     "La aplicación permite el registro de nuevos usuarios, el guardado de las ubicaciones y su gestión en el área de usuario. El FRONTEND conecta con una API envía peticiones una BASE DE DATOS SQL almacenada en RAILWAY, donde se encuentra toda la información necesaria para el correcto funcionamiento de la aplicación. "
   ],
-    "image1": "/Assets/SecurityShare/mockup-ipad-lr.png",
+    "image1": "/Assets/BookZone/alejandro-lopez-portfolio-book-detail.png",
+    "image2": "/Assets/BookZone/alejandro-lopez-portfolio-book-zone-add.book.png",
+    "image3": "/Assets/BookZone/alejandro-lopez-portfolio-book-list.png",
     "github": "https://github.com/alopezbelles/orbys-frontend"
   },
   {
@@ -71,7 +78,9 @@
     "description": ["'Waves' es una aplicación diseñada para surfistas que muestra una selección con las mejores ubicaciones para practicar Surf 🌊.",
     "La aplicación permite el registro de nuevos usuarios, el guardado de las ubicaciones y su gestión en el área de usuario. El FRONTEND conecta con una API envía peticiones una BASE DE DATOS SQL almacenada en RAILWAY, donde se encuentra toda la información necesaria para el correcto funcionamiento de la aplicación. "
   ],
-    "image1": "/Assets/SecurityShare/mockup-ipad-lr.png",
+    "image1": "/Assets/CafeOslo/lr-mockup.png",
+    "image2": "/Assets/CafeOslo/alejandro-lopez-portfolio-cafe-oslo-home.png",
+    "image3": "/Assets/CafeOslo/alejandro-lopez-portfolio-cafe-oslo-home2.png",
     "github": "https://github.com/alopezbelles/web-cafeteria"
   }
   
