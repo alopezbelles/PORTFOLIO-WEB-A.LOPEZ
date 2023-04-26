@@ -17,7 +17,7 @@ function Portfolio(){
         <Container fluid className="portfolioDesign">
             <Col className="col1Portfolio">
             <Image src={logo} className="logoHome" alt="logo"></Image>
-            <h2>SEE ALL MY WORK</h2>
+            <h2>SEE ALL MY WORK:</h2>
 
             </Col>
 

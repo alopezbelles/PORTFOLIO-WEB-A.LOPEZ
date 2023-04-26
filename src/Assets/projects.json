@@ -3,48 +3,76 @@
     "id": 0,
     "path_image": "https://drive.google.com/uc?id=1PRXmFzO6hnGc-uIgjt1bNFWB3KVww1tL",
     "name": "Security Share",
-    "description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "description": ["'Waves' es una aplicación diseñada para surfistas que muestra una selección con las mejores ubicaciones para practicar Surf 🌊.",
+    "La aplicación permite el registro de nuevos usuarios, el guardado de las ubicaciones y su gestión en el área de usuario. El FRONTEND conecta con una API envía peticiones una BASE DE DATOS SQL almacenada en RAILWAY, donde se encuentra toda la información necesaria para el correcto funcionamiento de la aplicación. "
+  ],
     "image1": "/Assets/SecurityShare/mockup-lr.png",
+    "image2": "/Assets/SecurityShare/alejandro-lopez-portfolio-security-share-documents.png",
+    "image3": "/Assets/SecurityShare/alejandro-lopez-portfolio-security-share-documents.png",
+    "image4": "/Assets/SecurityShare/alejandro-lopez-portfolio-security-share-home.png",
+    "image5": "/Assets/SecurityShare/alejandro-lopez-portfolio-security-share-register.png",
+    "image6": "/Assets/SecurityShare/alejandro-lopez-portfolio-security-share-register2.png",
     "github": "https://github.com/alopezbelles/App-Icloud.C"
   },
   {
     "id": 1,
     "path_image": "https://drive.google.com/uc?id=1gM8KKDynqZQLmBjkyUA8Y58K6mFTRFNF",
     "name": "Waves App",
-    "description": "El siguiente ejercicio consiste en el diseño y desarrollo de un FRONTEND para la APP WAVES, que ofrece una selección de ubicaciones para surfistas. Este FRONTEND conecta con una API envía peticiones una BASE DE DATOS SQL almacenada en RAILWAY, donde se encuentra toda la información necesaria para el correcto funcionamiento de la aplicación. 🌊",
+    "description": ["'Waves' es una aplicación diseñada para surfistas que muestra una selección con las mejores ubicaciones para practicar Surf 🌊.",
+    "La aplicación permite el registro de nuevos usuarios, el guardado de las ubicaciones y su gestión en el área de usuario. El FRONTEND conecta con una API envía peticiones una BASE DE DATOS SQL almacenada en RAILWAY, donde se encuentra toda la información necesaria para el correcto funcionamiento de la aplicación. "
+  ],
     "image1": "/Assets/Waves/responsive.png",
+    "image2": "/Assets/Waves/alejandro-lopez-portfolio-waves-login.png",
+    "image3": "/Assets/Waves/alejandro-lopez-portfolio-waves-register.png",
+    "image4": "/Assets/Waves/alejandro-lopez-portfolio-waves-detail.png",
+    "image5": "/Assets/Waves/alejandro-lopez-portfolio-waves-spots.png",
+    "image6": "/Assets/Waves/alejandro-lopez-portfolio-waves-user.png",
     "github": "https://github.com/alopezbelles/FRONTEND-FP-GEEKSHUBS"
   },
   {
     "id": 2,
-    "path_image": "https://drive.google.com/uc?id=1ma14d7O4E8p2mF1D0nlOLYxHABeS4uT_",
-    "name": "Asian Food",
-    "description": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+    "path_image": "https://drive.google.com/uc?id=18BhQq7UDRwry4yq5x3djsnjz3naCeXal",
+    "name": "Super Eight",
+    "description": ["'Waves' es una aplicación diseñada para surfistas que muestra una selección con las mejores ubicaciones para practicar Surf 🌊.",
+    "La aplicación permite el registro de nuevos usuarios, el guardado de las ubicaciones y su gestión en el área de usuario. El FRONTEND conecta con una API envía peticiones una BASE DE DATOS SQL almacenada en RAILWAY, donde se encuentra toda la información necesaria para el correcto funcionamiento de la aplicación. "
+  ],
     "image1": "/Assets/SecurityShare/mockup-ipad-lr.png",
-    "github": "https://github.com/alopezbelles/web-restaurante-ejercicio"
+    "github": "https://github.com/alopezbelles/frontend"
   },
   {
     "id": 3,
+    "path_image": "https://drive.google.com/uc?id=1ma14d7O4E8p2mF1D0nlOLYxHABeS4uT_",
+    "name": "Asian Food",
+    "description": ["'Waves' es una aplicación diseñada para surfistas que muestra una selección con las mejores ubicaciones para practicar Surf 🌊.",
+    "La aplicación permite el registro de nuevos usuarios, el guardado de las ubicaciones y su gestión en el área de usuario. El FRONTEND conecta con una API envía peticiones una BASE DE DATOS SQL almacenada en RAILWAY, donde se encuentra toda la información necesaria para el correcto funcionamiento de la aplicación. "
+  ],
+    "image1": "/Assets/AsianFood/alejandro-lopez-portfolio-asian-food-home.png",
+    "image2": "/Assets/AsianFood/alejandro-lopez-portfolio-asian-food-home2.png",
+    "image3": "/Assets/AsianFood/alejandro-lopez-portfolio-asian-food-menu.png",
+    "image4": "/Assets/AsianFood/alejandro-lopez-portfolio-asian-food-combos.png",
+    "image5": "/Assets/AsianFood/alejandro-lopez-portfolio-asian-food-contact.png",
+    "image6": "",
+    "github": "https://github.com/alopezbelles/web-restaurante-ejercicio"
+  },
+  {
+    "id": 4,
     "path_image": "https://drive.google.com/uc?id=14Yzu1BkUayoE25adbqA4CA_ut-EC03wc",
     "name": "Book-Zone",
-    "description": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+    "description": ["'Waves' es una aplicación diseñada para surfistas que muestra una selección con las mejores ubicaciones para practicar Surf 🌊.",
+    "La aplicación permite el registro de nuevos usuarios, el guardado de las ubicaciones y su gestión en el área de usuario. El FRONTEND conecta con una API envía peticiones una BASE DE DATOS SQL almacenada en RAILWAY, donde se encuentra toda la información necesaria para el correcto funcionamiento de la aplicación. "
+  ],
     "image1": "/Assets/SecurityShare/mockup-ipad-lr.png",
     "github": "https://github.com/alopezbelles/orbys-frontend"
   },
   {
-    "id": 4,
+    "id": 5,
     "path_image": "https://drive.google.com/uc?id=1pPNu5ScudMNnN96OCsTgqUCFvIG74k34",
     "name": "Café Oslo",
-    "description": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+    "description": ["'Waves' es una aplicación diseñada para surfistas que muestra una selección con las mejores ubicaciones para practicar Surf 🌊.",
+    "La aplicación permite el registro de nuevos usuarios, el guardado de las ubicaciones y su gestión en el área de usuario. El FRONTEND conecta con una API envía peticiones una BASE DE DATOS SQL almacenada en RAILWAY, donde se encuentra toda la información necesaria para el correcto funcionamiento de la aplicación. "
+  ],
     "image1": "/Assets/SecurityShare/mockup-ipad-lr.png",
     "github": "https://github.com/alopezbelles/web-cafeteria"
-  },
-  {
-    "id": 5,
-    "path_image": "https://drive.google.com/uc?id=18BhQq7UDRwry4yq5x3djsnjz3naCeXal",
-    "name": "Super Eight",
-    "description": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
-    "image1": "/Assets/SecurityShare/mockup-ipad-lr.png",
-    "github": "https://github.com/alopezbelles/frontend"
   }
+  
 ]

@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
 .imageProject{
     width: 50em;
     margin: 2em 2em;
@@ -5,14 +7,18 @@
 
 .tittleProject{
     font-family: 'Gloria Hallelujah', cursive;
-    margin-bottom: 2em;
+    
+    margin-bottom: 1em;
     margin-top: 2em;
     font-size: 55px;
 }
 
 .projectsDesign p{
     font-family: 'Gloria Hallelujah', cursive;
-    width: 80%;
+    font-family: 'Roboto', sans-serif;
+
+    width: 70%;
+    font-size: 20px;
 
 
 }
