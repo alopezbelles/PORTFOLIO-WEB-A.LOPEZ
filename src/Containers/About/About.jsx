@@ -13,7 +13,7 @@ import "./About.css";
 
 function About() {
   return (
-    <Container className="aboutDesign" fluid>
+    <Container fluid className="aboutDesign" >
       {/* <video autoPlay muted loop playsInline className="video-background">
         <source src={bgVideo} />
       </video> */}
