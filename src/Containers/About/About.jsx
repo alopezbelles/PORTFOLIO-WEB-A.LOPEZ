@@ -11,8 +11,6 @@ import alexPhoto from "../../Assets/alex-photo.png";
 import "./About.css";
 // import bgVideo from '../../Assets/bg-color.mp4';
 
-
-
 function About() {
   return (
     <Container className="aboutDesign" fluid>
@@ -26,7 +24,7 @@ function About() {
           alt="Descripción de la imagen"
         ></Image>
         <div className="description">
-          <h1>Alejandro López</h1>
+          <h1>About Me:</h1>
           <p>
             {" "}
             Me llamo <b>Alejandro López</b>y soy{" "}
@@ -47,7 +45,65 @@ function About() {
         </div>
       </Col>
       <Col className="col2Design">
-        <h1>Work Experience & Education</h1>
+        <h1>Work Experience</h1>
+        <div className="infoContainer">
+          <h2 className="yearsText">2017 - 2022</h2>
+          <div className="paragraphs">
+            <p>
+              PROJECT MANAGER De la empresa REFORMIA, distribuidora de
+              materiales cerámicos para proyectos de arquitectura e
+              interiorismo.
+            </p>
+            <p>
+              DISEÑADOR DE INTERIORES + DISEÑADOR GRÁFICO Y POSTPRODUCCIÓN
+              DIGITAL COMO FREELANCE (ALO-CREATIVO) y en colaboración con
+              múltiples empresas de caracter interdisciplinar.
+            </p>
+          </div>
+        </div>
+      </Col>
+
+      {/* EDUCATION */}
+
+      <Col className="col3Design">
+        <div className="infoEducation">
+          <h1>Education</h1>
+          <div className="infoContainerEducation">
+            <h2 className="yearsText">2022-2023</h2>
+            <div className="paragraphs">
+              <p>
+                BOOTCAMP DE PROGRAMADOR FULLSTACK DEVELOPER EN ACADEMIA
+                GEEKSHUBS - VALENCIA (Septiembre 2022 - Enero 2023).
+              </p>
+            </div>
+          </div>
+          <div className="infoContainerEducation">
+            <h2 className="yearsText">2012-2016</h2>
+            <div className="paragraphs">
+              <p>
+                GRADO DISEÑO DE INTERIORES EASD CASTELLÓN (Escola d’Art i
+                Superior de Disseny de Castelló).
+              </p>
+            </div>
+          </div>
+          <div className="infoContainerEducation">
+            <h2 className="yearsText">2009-2011</h2>
+            <div className="paragraphs">
+              <p>
+                CFGS PROYECTOS Y DIRECCIÓN DE OBRAS DE DECORACIÓN (Ciclo
+                Formativo de Grado Superior) EASD CASTELLÓN (Escola d’Art i
+                Superior de Disseny de Castelló).
+              </p>
+            </div>
+          </div>
+          <div className="infoContainerEducation">
+            <h2 className="yearsText">Previously</h2>
+            <div className="paragraphs">
+              <p>EDUCACIÓN OBLIGATORIA + BACHILLERATO EN HUMANIDADES.</p>
+            </div>
+          </div>
+         
+        </div>
       </Col>
     </Container>
   );

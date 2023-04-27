@@ -23,9 +23,9 @@
   color: black;
   text-decoration: none;
   margin-top: 10px;
-  font-size: 20px;
+  font-size: 30px;
   font-weight: bold;
-  font-family: "Gloria Hallelujah", cursive;
+  /* font-family: "Gloria Hallelujah", cursive; */
 }
 
 .image-container:hover {
@@ -34,10 +34,18 @@
   cursor: pointer;
   filter: opacity(90%);
   text-decoration: none;
+ 
 }
+
 .nameProject {
   text-decoration: none;
+  text-align: center;
+  font-family: "Bebas Neue", cursive;
+  /* font-size: 60px; */
+
 }
+
+
 
 @media screen and (max-width: 1000px) {
   .image-container {

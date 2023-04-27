@@ -1,10 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap");
 
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
 
 body {
   background-color: #eff1f4;
 }
 
+h2{
+  font-size: 60px;
+}
 .portfolioDesign {
   width: 100vw;
   margin: 0;
@@ -17,9 +21,8 @@ body {
   width: 15em;
 }
 
-
-.col1Portfolio{
-    font-family: 'Gloria Hallelujah', cursive;
-    margin-bottom: 2em;
-    margin-top: 2em;
+.col1Portfolio {
+  font-family: "Bebas Neue", cursive;
+  margin-bottom: 2em;
+  margin-top: 6em;
 }

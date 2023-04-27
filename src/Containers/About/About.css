@@ -1,5 +1,6 @@
 h1 {
-  font-family: "Gloria Hallelujah", cursive;
+  font-family: "Bebas Neue", cursive;
+  font-size: 55px;
   margin-bottom: 1em;
 }
 
@@ -36,7 +37,75 @@ p {
 }
 
 .col2Design {
+  background-color: rgb(225, 222, 222);
   margin-top: 4em;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2em;
+  padding: 3em;
+}
+.col3Design {
+  margin-top: 4em;
+  /* display:flex; */
+  margin-bottom: 2em;
+}
+
+.infoContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.infoContainer p {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  margin-left: 3em;
+  /* text-align: left; */
+  width: 90%;
+  /* justify-content: center; */
+}
+.infoContainerEducation p {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  margin-left: 3em;
+  /* text-align: left; */
+  width: 90%;
+  /* justify-content: center; */
+}
+
+.infoContainer h2 {
+  /* font-family: 'Roboto', sans-serif; */
+  font-family: "Bebas Neue", cursive;
+  font-size: 35px;
+}
+.infoContainerEducation h2 {
+  /* font-family: 'Roboto', sans-serif; */
+  font-family: "Bebas Neue", cursive;
+  font-size: 35px;
+}
+
+.yearsText {
+  text-align: right;
+  align-items: flex-start;
+}
+
+.paragraphs {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.infoContainerEducation {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 3em;
+  /* text-align: left; */
+  width: 90%;
+  /* justify-content: center; */
 }
 
 /* .video-background {
@@ -48,3 +117,40 @@ p {
   object-fit: cover;
   z-index: -1;
 } */
+
+@media screen and (max-width: 800px) {
+  .col1Design {
+    flex-direction: column;
+  }
+  .profileImage {
+    margin-right: 0em;
+
+    max-width: 40%;
+    margin-bottom: 2em;
+  }
+  p {
+    width: 100%;
+  }
+  .description {
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .profileImage {
+    max-width: 60%;
+    margin-bottom: 2em;
+    margin-right: 0em;
+  }
+  .infoContainerEducation {
+    flex-direction: column;
+    margin-left: 0em;
+  }
+  .paragraphs {
+    width: 90%;
+  }
+
+  .infoContainer {
+    flex-direction: column;
+  }
+}

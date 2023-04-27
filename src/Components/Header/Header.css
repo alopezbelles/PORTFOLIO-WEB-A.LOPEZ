@@ -1,10 +1,14 @@
 .navbarDesign {
-    background-color: #F7F6F2;
+    /* background-color: #F7F6F2; */
     /* height: 6em; */
-    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px;
+    /* box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px; */
     font-family: 'Roboto', sans-serif;
 
   }
+
+  .navbarDesign .nav-link:hover {
+    color: white;
+}
   
   /* .me-auto{
     height: 3.2em;
@@ -13,7 +17,7 @@
   } */
   
   .logoNavbar {
-    width: 37px;
+    width: 100px;
   }
   
   .logoNavbar:hover {
