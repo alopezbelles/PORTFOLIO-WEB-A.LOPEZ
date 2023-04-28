@@ -105,9 +105,16 @@
     "id": 5,
     "path_image": "https://drive.google.com/uc?id=1-XFvH8VhFDNCK_b80HLDJ0wU_DCJTQDz",
     "name": "Café Oslo",
-    "description": ["'Waves' es una aplicación diseñada para surfistas que muestra una selección con las mejores ubicaciones para practicar Surf 🌊.",
-    "La aplicación permite el registro de nuevos usuarios, el guardado de las ubicaciones y su gestión en el área de usuario. El FRONTEND conecta con una API envía peticiones una BASE DE DATOS SQL almacenada en RAILWAY, donde se encuentra toda la información necesaria para el correcto funcionamiento de la aplicación. "
+    "description": ["'Café Oslo' es una web diseñada para una cafetería ☕️🍪🍰.",
+    "Con una estética sencilla y una estructura HTML5 con BOOTSTRAP, el contenido de la página se centra en una sola página. La web permite su visualización en cualquier dispositivo."
   ],
+  "tecnologies": "TECNOLOGÍAS: HTML5 + CSS3 + BOOTSTRAP.",
+    "deploy": "Deploy en Git",
+    "deployPath": "https://alopezbelles.github.io/web-cafeteria/",
+    "githubFront": "Enlace a GitHub",
+    "gitFrontPath":"https://github.com/alopezbelles/web-cafeteria",
+    "githubBack":"",
+    "gitBackPath":"",
     "image1": "/Assets/CafeOslo/lr-mockup.png",
     "image2": "/Assets/CafeOslo/alejandro-lopez-portfolio-cafe-oslo-home.png",
     "image3": "/Assets/CafeOslo/alejandro-lopez-portfolio-cafe-oslo-home2.png",
