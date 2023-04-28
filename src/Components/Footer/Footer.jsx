@@ -15,12 +15,12 @@ function Footer(){
         <Container fluid className="containerFooter">
       <Col>
         <p>
-          All rights reserved © 2023 Share Security. The content of this website
+          All rights reserved © 2023 Alejandro López. The content of this website
           is protected by copyright and other intellectual property laws.
         </p>
       </Col>
       <Col>
-        <p>sharesecurity@sharesecurity.com</p>
+        <p>hola@alocreativo.es</p>
       </Col>
     </Container>
     )

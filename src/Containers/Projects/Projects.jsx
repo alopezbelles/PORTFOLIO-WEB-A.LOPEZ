@@ -21,6 +21,12 @@ const Projects = () => {
         project.description.map((paragraph, index) => (
           <p key={index}>{paragraph}</p>
         ))}
+        <p style={{ fontWeight: 'bold', fontSize: '18px' }}>{project.tecnologies}</p>
+        <a className="pathsStyles" href={project.deployPath}><p >{project.deploy}</p></a>
+        <a className="pathsStyles" href={project.gitFrontPath}><p >{project.githubFront}</p></a>
+        <a className="pathsStyles" href={project.gitBackPath}><p >{project.githubBack}</p></a>
+        
+        
       <img
         className="imageProject"
         src={project.path_image}

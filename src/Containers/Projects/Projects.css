@@ -20,7 +20,17 @@
     width: 70%;
     font-size: 20px;
 
+}
 
+.pathsStyles {
+    color: black;
+    width: 70%;
+    text-decoration: none;
+}
+.pathsStyles:hover {
+    
+    transition: 0.2s;
+    color: white;
 }
 .projectsDesign{
     display: flex;
