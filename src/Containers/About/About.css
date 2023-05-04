@@ -160,7 +160,10 @@ p {
     margin-left: 0em;
   }
   .col1Design {
-    margin-top: 2em;
-   
+    margin-top: 2em;   
+  }
+  .description {
+    
+    margin-left: 0em;
   }
 }

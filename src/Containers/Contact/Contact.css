@@ -1,0 +1,29 @@
+.contactDesign{
+    height: 60vh;
+}
+.col1Contact{
+    margin-top: 6em;
+
+}
+
+.logoDesign {
+    margin: 10px;
+    width: 2.5em;
+}
+
+.col3Design{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    font-style: italic;
+    font-size: 14px;
+}
+
+.dataContact{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

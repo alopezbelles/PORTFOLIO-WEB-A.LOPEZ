@@ -4,12 +4,17 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  /* align-items: center; */
 }
 
 .image-container {
   width: calc((80% - 100px) / 2); /* se resta 40px para incluir el margen */
   margin: 10px;
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   margin-bottom: 3em;
   text-decoration: none;
 }
@@ -34,18 +39,15 @@
   cursor: pointer;
   filter: opacity(90%);
   text-decoration: none;
- 
 }
 
 .nameProject {
   text-decoration: none;
   text-align: center;
+
   font-family: "Bebas Neue", cursive;
   /* font-size: 60px; */
-
 }
-
-
 
 @media screen and (max-width: 1000px) {
   .image-container {
@@ -56,4 +58,5 @@
   .image-container {
     width: 90%;
   }
+  
 }
