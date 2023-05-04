@@ -1,0 +1,31 @@
+.buttonDesign {
+    background-color: #1c1c1c;
+    color: #f3f3f3;
+    margin: 1em;
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: "Bebas Neue", cursive;
+    font-size: 23px;
+
+    width: 12%;
+    height: 7vh;
+    border-radius: 50px;
+    border: none;
+  
+    border: solid 1.3px #272c41;
+  }
+  
+  .buttonDesign:hover {
+    background-color: #f3f4ef;
+    color: #3d3e3e;
+    cursor: pointer;
+    scale: 1.2;
+    transition: 0.5s;
+    border: solid #444b51 1px;
+  }
+  
+  @media screen and (max-width: 450px) {
+    .buttonDesign {
+      width: 50vw;
+    }
+  }
+  

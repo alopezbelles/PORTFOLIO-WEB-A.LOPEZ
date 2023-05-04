@@ -1,29 +1,42 @@
-.contactDesign{
+/* .contactDesign{
     height: 60vh;
-}
-.col1Contact{
-    margin-top: 6em;
-
+} */
+.col1Contact {
+  margin-top: 6em;
 }
 
 .logoDesign {
-    margin: 10px;
-    width: 2.5em;
+  margin: 10px;
+  width: 2.5em;
+}
+.logoDesign:hover {
+  scale: 1.2;
+  transition: 0.5s;
+  filter: invert(0.9);
 }
 
-.col3Design{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+.col3Design {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 
-    font-style: italic;
-    font-size: 14px;
+  font-style: italic;
+  font-size: 14px;
 }
 
-.dataContact{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.col4Design {
+  margin-bottom: 2em;
+}
+
+.dataContact {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h2 {
+  font-family: "Bebas Neue", cursive;
+  font-size: 40px;
 }

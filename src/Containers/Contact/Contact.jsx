@@ -1,5 +1,5 @@
 import React from "react";
-import { useNavigate } from "react-router-dom";
+// import { useNavigate } from "react-router-dom";
 
 // BOOTSTRAP
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -12,6 +12,7 @@ import logoGithub from "../../Assets/github-logo.png";
 import logoLinkedin from "../../Assets/linkedin-logo.png";
 import logoMail from "../../Assets/mail-logo.png";
 import logoPhone from "../../Assets/phone-logo.png";
+import Button from "../../Components/Button/Button";
 
 function Contact() {
   return (
@@ -36,6 +37,12 @@ function Contact() {
       <Col className="col3Design">
         <p className="dataContact">alopezbelles@gmail.com</p>
         <p className="dataContact">+34 662 583 482</p>
+      </Col>
+      <Col className="col4Design">
+        <h2>MY PORTFOLIO:</h2>
+        <a href="https://drive.google.com/file/d/12zuAqW0yPMnrGQqBUaldvuMazk2hgEm5/view?usp=share_link">
+          <Button text="Download"></Button>
+        </a>
       </Col>
     </Container>
   );
