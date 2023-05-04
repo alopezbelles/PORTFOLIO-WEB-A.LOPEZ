@@ -1,6 +1,7 @@
 import "./App.css";
+import React, { useState, useEffect } from 'react';
 
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
 import Portfolio from "./Containers/Portfolio/Portfolio";
 import About from "./Containers/About/About";
 import Contact from "./Containers/Contact/Contact";
@@ -8,10 +9,23 @@ import Contact from "./Containers/Contact/Contact";
 import Header from "./Components/Header/Header";
 import Footer from "./Components/Footer/Footer";
 import Projects from "./Containers/Projects/Projects"
+import Spinner from "./Components/Spinner/Spinner";
+
 
 function App() {
+
+  const [showSpinner, setShowSpinner] = useState(true);
+
+  useEffect(() => {
+    setTimeout(() => {
+      setShowSpinner(false);
+    }, 1000);
+  }, []);
+
   return (
     <div className="App">
+        {showSpinner && <Spinner />}
+
       <BrowserRouter>
         <Header />
         <Routes>
