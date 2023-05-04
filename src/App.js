@@ -20,7 +20,7 @@ function App() {
   useEffect(() => {
     setTimeout(() => {
       setShowSpinner(false);
-    }, 1000);
+    }, 500);
   }, []);
 
   return (

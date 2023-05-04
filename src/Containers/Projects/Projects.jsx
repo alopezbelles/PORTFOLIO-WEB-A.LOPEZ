@@ -26,8 +26,8 @@ const Projects = () => {
         (project) => project.id === parseInt(id)
       );
       setProject(selectedProject);
-      setLoading(false); // <-- Aquí se cambia el valor de loading a falso
-    }, 1000);
+      setLoading(false); 
+    }, 500);
   }, [id]);
 
   return (
