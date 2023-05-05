@@ -34,7 +34,7 @@ function Contact() {
           <Image className="logoDesign" src={logoPhone}></Image>
         </a>
       </Col>
-      <Col className="col3Design">
+      <Col className="col3DesignContact">
         <p className="dataContact">alopezbelles@gmail.com</p>
         <p className="dataContact">+34 662 583 482</p>
       </Col>

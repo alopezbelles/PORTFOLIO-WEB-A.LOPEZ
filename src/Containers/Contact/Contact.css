@@ -1,6 +1,6 @@
-/* .contactDesign{
-    height: 60vh;
-} */
+.contactDesign{
+    height: 65vh;
+}
 .col1Contact {
   margin-top: 6em;
 }
@@ -15,7 +15,8 @@
   filter: invert(0.9);
 }
 
-.col3Design {
+.col3DesignContact {
+    margin-top: 2em;
   display: flex;
   flex-direction: column;
   justify-content: center;

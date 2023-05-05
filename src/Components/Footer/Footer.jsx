@@ -16,12 +16,12 @@ function Footer(){
       <Col>
         <p>
           All rights reserved © 2023 Alejandro López. The content of this website
-          is protected by copyright and other intellectual property laws.
+          is protected by copyright and other intellectual property laws. alopezbelles@gmail.com
         </p>
       </Col>
-      <Col>
-        <p>hola@alocreativo.es</p>
-      </Col>
+      {/* <Col>
+        <p>alopezbelles@gmail.com</p>
+      </Col> */}
     </Container>
     )
 }
