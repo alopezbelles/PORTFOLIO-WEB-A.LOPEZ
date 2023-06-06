@@ -9,7 +9,7 @@
   ],
     "tecnologies": "TECNOLOGÍAS: REACT + BOOTSTRAP + AWS.",
     "deploy": "Deploy en AWS",
-    "deployPath": "https://main.d9zy8zma4c49a.amplifyapp.com/contact/",
+    "deployPath": "https://main.d9zy8zma4c49a.amplifyapp.com/",
     "githubFront": "Github Frontend",
     "gitFrontPath":"https://github.com/alopezbelles/botanical-web",
     "githubBack":"",
