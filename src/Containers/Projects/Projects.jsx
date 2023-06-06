@@ -56,7 +56,7 @@ const Projects = () => {
   
           <img
             className="imageProject"
-            src={project.path_image}
+            src={project.principal}
             alt={project.name}
           />
           <img
