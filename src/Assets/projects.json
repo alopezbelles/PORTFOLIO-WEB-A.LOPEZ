@@ -2,6 +2,31 @@
   {
     "id": 0,
     "path_image": "https://drive.google.com/uc?id=1nD1qeEk20HLipkjS6aOBAtzOxp0P6kvC",
+    "name": "Trip-Wise",
+    "description": ["Tripe-Wise es una interfaz intuitiva y completa para gestionar reservas de viajes, ofreciendo una experiencia similar a plataformas como Booking. Con una interfaz sencilla y una base de datos sólida, Tripe-Wise simplifica la búsqueda de información detallada y permite realizar reservas de forma eficiente.✈️",
+    "GreenHub proporciona información sobre el origen, cuidado y mantenimiento de las principales plantas utilizadas en interiores. 🌿💚",
+    "La aplicación está compuesta por un BackEnd y un FrontEnd. La base de datos está creada utilizando el lenguaje SQL y gestionada con MySQL. La API se ha diseñado utilizando la librería Express.js de Node.js. Además, la base de datos está alojada en Railway. ",
+    "El FrontEnd de la aplicación está diseñada y desarrollada en React + Bootstrap y permite el uso de componentes reutilizables. La APP permite un CRUD completo a la base de datos."
+  ],
+    "tecnologies": "TECNOLOGÍAS: SQL + JAVASCRIPT + MYSQL + EXPRESS.JS + SEQUELIZE + REACT + BOOTSTRAP + AWS + RAILWAY.",
+    "deploy": "Deploy en AWS",
+    "deployPath": "https://main.d2ze8qbjn1wcbz.amplifyapp.com/",
+    "githubFront": "GitHub Frontend",
+    "gitFrontPath":"https://github.com/alopezbelles/barrel-cloud-frontend",
+    "githubBack":"GitHub Backend",
+    "gitBackPath":"https://github.com/alopezbelles/barrel-cloud-backend",
+    "principal": "https://drive.google.com/uc?id=11fJVToIeGyEwwz4H03K1llL4YRATnwnX",
+    "image1": "/Assets/TripeWise/tripe-wise-5.png",
+    "image2": "/Assets/TripeWise/tripe-wise-1.png",
+    "image3": "/Assets/TripeWise/tripe-wise-2.png",
+    "image4": "/Assets/TripeWise/tripe-wise-3.png",
+    "image5": "/Assets/TripeWise/tripe-wise-4.png",
+    "image6": "",
+    "github": ""
+  },
+  {
+    "id": 1,
+    "path_image": "https://drive.google.com/uc?id=1nD1qeEk20HLipkjS6aOBAtzOxp0P6kvC",
     "name": "GreenHub",
     "description": ["Te presento GreenHub, una aplicación diseñada con una interfaz intuitiva que parece un divertido juego de cartas, especialmente pensada para los amantes de las plantas.🌱🌿.",
     "GreenHub proporciona información sobre el origen, cuidado y mantenimiento de las principales plantas utilizadas en interiores. 🌿💚",
@@ -21,10 +46,10 @@
     "image4": "/Assets/GreenHub/alejandro-lopez-portfolio-greenhub-about.png",
     "image5": "/Assets/GreenHub/mockup-ipad-greenhub-about2.png",
     "image6": "/Assets/GreenHub/mockup-ipad-greenhub-contact.png",
-    "github": "https://github.com/alopezbelles/App-Icloud.C"
+    "github": "h"
   },
   {
-    "id": 1,
+    "id": 2,
     "path_image": "https://drive.google.com/uc?id=1DHHuPpheyaffUHFz6uvYr0M2inVoNs_y",
     "name": "Security Share",
     "description": ["Diseño y desarrollo de un Frontend para una empresa de seguridad software ficticia, llamada 'Security Share'. Con interfaz sencilla e intuitiva y una navegación dinámica para el usuario, se establecen unos recursos visuales y colores corporativos en torno a los cuales gira toda la interfaz de la aplicación 💻⛔️.",
@@ -44,10 +69,10 @@
     "image4": "/Assets/SecurityShare/alejandro-lopez-portfolio-security-share-home.png",
     "image5": "/Assets/SecurityShare/alejandro-lopez-portfolio-security-share-register.png",
     "image6": "/Assets/SecurityShare/alejandro-lopez-portfolio-security-share-register2.png",
-    "github": "https://github.com/alopezbelles/App-Icloud.C"
+    "github": ""
   },
   {
-    "id": 2,
+    "id": 3,
     "path_image": "https://drive.google.com/uc?id=1dwNobesV4PdLTlKa8k3lx7IyRY69u3Kw",
     "name": "Waves App",
     "description": ["'Waves' es una aplicación diseñada para surfistas que muestra una selección con las mejores ubicaciones para practicar Surf 🌊.",
@@ -70,7 +95,7 @@
     "github": "https://github.com/alopezbelles/FRONTEND-FP-GEEKSHUBS"
   },
   {
-    "id": 3,
+    "id": 4,
     "path_image": "https://drive.google.com/uc?id=1yND_-WPe_GAEvPr_M_QOCX-CCYtD5N8n",
     "name": "Super Eight",
     "description": ["'Super Eight' es una aplicación funcional que ofrece el servicio de alquiler de películas, con un diseño inspirado en la época de los 90's, siguiendo una inspiración retro 🎥👾. Los componentes de la aplicación simulan ventanas emergentes y con un aspecto sencillo que se adapta completamente a las funcionalidades de la web pero que intentan emular este estilo 'tecnología vintage'.",
@@ -88,7 +113,7 @@
     "github": "https://github.com/alopezbelles/frontend"
   },
   {
-    "id": 4,
+    "id": 5,
     "path_image": "https://drive.google.com/uc?id=1cfvecN7s6aK9Ot-M18PFqyx9DCe7z-i-",
     "name": "Asian Food",
     "description": ["Diseño y desarrollo de web responsive para restaurante 'Asian Food', negocio local de gastronomía asiática 🍣🍙.",
@@ -111,7 +136,7 @@
     "github": "https://github.com/alopezbelles/web-restaurante-ejercicio"
   },
   {
-    "id": 5,
+    "id": 6,
     "path_image": "https://drive.google.com/uc?id=1oE7VzSlAU3DAGWv2c6ytDIicR1yIiffz",
     "name": "Book-Zone",
     "description": ["'Book-Zone' es una web que ofrece los servicios de una librería online 📖📚.",
@@ -131,7 +156,7 @@
     "github": "https://github.com/alopezbelles/orbys-frontend"
   },
   {
-    "id": 6,
+    "id": 7,
     "path_image": "https://drive.google.com/uc?id=1-XFvH8VhFDNCK_b80HLDJ0wU_DCJTQDz",
     "name": "Café Oslo",
     "description": ["'Café Oslo' es una web diseñada para una cafetería ☕️🍪🍰.",
