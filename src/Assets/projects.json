@@ -1,9 +1,9 @@
 [
   {
     "id": 0,
-    "path_image": "https://drive.google.com/uc?id=1nD1qeEk20HLipkjS6aOBAtzOxp0P6kvC",
+    "path_image": "https://drive.google.com/uc?id=11fJVToIeGyEwwz4H03K1llL4YRATnwnX",
     "name": "Trip-Wise",
-    "description": ["Tripe-Wise es una interfaz intuitiva y completa para gestionar reservas de viajes, ofreciendo una experiencia similar a plataformas como Booking. Con una interfaz sencilla y una base de datos sólida, Tripe-Wise simplifica la búsqueda de información detallada y permite realizar reservas de forma eficiente.✈️",
+    "description": ["Trip-Wise es una interfaz intuitiva y completa para gestionar reservas de viajes, ofreciendo una experiencia similar a plataformas como Booking. Con una interfaz sencilla y una base de datos sólida, Tripe-Wise simplifica la búsqueda de información detallada y permite realizar reservas de forma eficiente.✈️",
     "GreenHub proporciona información sobre el origen, cuidado y mantenimiento de las principales plantas utilizadas en interiores. 🌿💚",
     "La aplicación está compuesta por un BackEnd y un FrontEnd. La base de datos está creada utilizando el lenguaje SQL y gestionada con MySQL. La API se ha diseñado utilizando la librería Express.js de Node.js. Además, la base de datos está alojada en Railway. ",
     "El FrontEnd de la aplicación está diseñada y desarrollada en React + Bootstrap y permite el uso de componentes reutilizables. La APP permite un CRUD completo a la base de datos."
