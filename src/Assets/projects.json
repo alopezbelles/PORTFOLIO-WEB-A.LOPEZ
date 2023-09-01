@@ -1,6 +1,27 @@
 [
   {
     "id": 0,
+    "path_image": "https://drive.google.com/uc?id=1_z1NltpZ31eEOby67bblBcLJvJjaAofB",
+    "name": "Task Manager",
+    "description": ["'Task Manager' Task Manager es una aplicación diseñada para simplificar la gestión de tareas de los usuarios.",
+    "Este proyecto integral abarca tanto el desarrollo del FrontEnd como del BackEnd, junto con la implementación de una API REST. La aplicación ofrece un completo conjunto de operaciones CRUD (Create, Read, Update y Delete) para interactuar con la base de datos, lo que permite a los usuarios administrar eficazmente sus tareas de manera eficiente y organizada."
+  ],
+    "tecnologies": "TECNOLOGÍAS: REACT + BOOTSTRAP + JAVASCRIPT + EXPRESS.JS + SEQUELIZE + MYSQL + SQL + AWS + RAILWAY.",
+    "deploy": "Deploy en AWS",
+    "deployPath": "https://main.dphxz5dtyw9xe.amplifyapp.com/",
+    "githubFront": "GitHub Frontend",
+    "gitFrontPath":"https://github.com/alopezbelles/frontend-edc-react",
+    "githubBack":"GitHub Backend",
+    "gitBackPath":"https://github.com/alopezbelles/backend-edc-sequelize",
+    "principal": "https://drive.google.com/uc?id=1_z1NltpZ31eEOby67bblBcLJvJjaAofB",
+    "image1": "/Assets/TaskManager/mockup-1.png",
+    "image2": "/Assets/TaskManager/mockup-2.png",
+    "image3": "/Assets/TaskManager/mockup-3.png",
+    "image4": "/Assets/TaskManager/mockup-4.png",
+    "github": ""
+  },
+  {
+    "id": 1,
     "path_image": "https://drive.google.com/uc?id=11fJVToIeGyEwwz4H03K1llL4YRATnwnX",
     "name": "Trip-Wise",
     "description": ["Trip-Wise es una interfaz intuitiva y completa para gestionar reservas de viajes, ofreciendo una experiencia similar a plataformas como Booking. Con una interfaz sencilla y una base de datos sólida, Tripe-Wise simplifica la búsqueda de información detallada y permite realizar reservas de forma eficiente.✈️",
@@ -25,7 +46,7 @@
     "github": ""
   },
   {
-    "id": 1,
+    "id": 2,
     "path_image": "https://drive.google.com/uc?id=1nD1qeEk20HLipkjS6aOBAtzOxp0P6kvC",
     "name": "GreenHub",
     "description": ["Te presento GreenHub, una aplicación diseñada con una interfaz intuitiva que parece un divertido juego de cartas, especialmente pensada para los amantes de las plantas.🌱🌿.",
@@ -49,7 +70,7 @@
     "github": "h"
   },
   {
-    "id": 2,
+    "id": 3,
     "path_image": "https://drive.google.com/uc?id=1DHHuPpheyaffUHFz6uvYr0M2inVoNs_y",
     "name": "Security Share",
     "description": ["Diseño y desarrollo de un Frontend para una empresa de seguridad software ficticia, llamada 'Security Share'. Con interfaz sencilla e intuitiva y una navegación dinámica para el usuario, se establecen unos recursos visuales y colores corporativos en torno a los cuales gira toda la interfaz de la aplicación 💻⛔️.",
@@ -72,7 +93,7 @@
     "github": ""
   },
   {
-    "id": 3,
+    "id": 4,
     "path_image": "https://drive.google.com/uc?id=1dwNobesV4PdLTlKa8k3lx7IyRY69u3Kw",
     "name": "Waves App",
     "description": ["'Waves' es una aplicación diseñada para surfistas que muestra una selección con las mejores ubicaciones para practicar Surf 🌊.",
@@ -95,7 +116,7 @@
     "github": "https://github.com/alopezbelles/FRONTEND-FP-GEEKSHUBS"
   },
   {
-    "id": 4,
+    "id": 5,
     "path_image": "https://drive.google.com/uc?id=1yND_-WPe_GAEvPr_M_QOCX-CCYtD5N8n",
     "name": "Super Eight",
     "description": ["'Super Eight' es una aplicación funcional que ofrece el servicio de alquiler de películas, con un diseño inspirado en la época de los 90's, siguiendo una inspiración retro 🎥👾. Los componentes de la aplicación simulan ventanas emergentes y con un aspecto sencillo que se adapta completamente a las funcionalidades de la web pero que intentan emular este estilo 'tecnología vintage'.",
@@ -113,7 +134,7 @@
     "github": "https://github.com/alopezbelles/frontend"
   },
   {
-    "id": 5,
+    "id": 6,
     "path_image": "https://drive.google.com/uc?id=1cfvecN7s6aK9Ot-M18PFqyx9DCe7z-i-",
     "name": "Asian Food",
     "description": ["Diseño y desarrollo de web responsive para restaurante 'Asian Food', negocio local de gastronomía asiática 🍣🍙.",
@@ -136,7 +157,7 @@
     "github": "https://github.com/alopezbelles/web-restaurante-ejercicio"
   },
   {
-    "id": 6,
+    "id": 7,
     "path_image": "https://drive.google.com/uc?id=1oE7VzSlAU3DAGWv2c6ytDIicR1yIiffz",
     "name": "Book-Zone",
     "description": ["'Book-Zone' es una web que ofrece los servicios de una librería online 📖📚.",
@@ -156,7 +177,7 @@
     "github": "https://github.com/alopezbelles/orbys-frontend"
   },
   {
-    "id": 7,
+    "id": 8,
     "path_image": "https://drive.google.com/uc?id=1-XFvH8VhFDNCK_b80HLDJ0wU_DCJTQDz",
     "name": "Café Oslo",
     "description": ["'Café Oslo' es una web diseñada para una cafetería ☕️🍪🍰.",
