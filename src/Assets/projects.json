@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "path_image": "https://drive.google.com/uc?id=1_z1NltpZ31eEOby67bblBcLJvJjaAofB",
+    "path_image": "/Assets/TaskManager/miniature.png",
     "name": "Task Manager",
     "description": ["'Task Manager' Task Manager es una aplicación diseñada para simplificar la gestión de tareas de los usuarios.",
     "Este proyecto integral abarca tanto el desarrollo del FrontEnd como del BackEnd, junto con la implementación de una API REST. La aplicación ofrece un completo conjunto de operaciones CRUD (Create, Read, Update y Delete) para interactuar con la base de datos, lo que permite a los usuarios administrar eficazmente sus tareas de manera eficiente y organizada."
@@ -22,7 +22,7 @@
   },
   {
     "id": 1,
-    "path_image": "https://drive.google.com/uc?id=11fJVToIeGyEwwz4H03K1llL4YRATnwnX",
+    "path_image": "/Assets/TripeWise/miniature.png",
     "name": "Trip-Wise",
     "description": ["Trip-Wise es una interfaz intuitiva y completa para gestionar reservas de viajes, ofreciendo una experiencia similar a plataformas como Booking. Con una interfaz sencilla y una base de datos sólida, Tripe-Wise simplifica la búsqueda de información detallada y permite realizar reservas de forma eficiente.✈️",
     
@@ -47,7 +47,7 @@
   },
   {
     "id": 2,
-    "path_image": "https://drive.google.com/uc?id=1nD1qeEk20HLipkjS6aOBAtzOxp0P6kvC",
+    "path_image": "/Assets/GreenHub/miniature.png",
     "name": "GreenHub",
     "description": ["Te presento GreenHub, una aplicación diseñada con una interfaz intuitiva que parece un divertido juego de cartas, especialmente pensada para los amantes de las plantas.🌱🌿.",
     "GreenHub proporciona información sobre el origen, cuidado y mantenimiento de las principales plantas utilizadas en interiores. 🌿💚",
@@ -71,7 +71,7 @@
   },
   {
     "id": 3,
-    "path_image": "https://drive.google.com/uc?id=1DHHuPpheyaffUHFz6uvYr0M2inVoNs_y",
+    "path_image": "/Assets/SecurityShare/miniature.png",
     "name": "Security Share",
     "description": ["Diseño y desarrollo de un Frontend para una empresa de seguridad software ficticia, llamada 'Security Share'. Con interfaz sencilla e intuitiva y una navegación dinámica para el usuario, se establecen unos recursos visuales y colores corporativos en torno a los cuales gira toda la interfaz de la aplicación 💻⛔️.",
     "La aplicación está diseñada y desarrollada en React+bootstrap y permite el uso de componentes reutilizables. El siguiente Frontend se divide en cuatro páginas. La página principal es la 'HOME', 'REGISTER' y 'LOGIN'. Por último el apartado 'DOCUMENTS' permite el acceso y descarga de los diferentes documentos de la empresa."
@@ -94,7 +94,7 @@
   },
   {
     "id": 4,
-    "path_image": "https://drive.google.com/uc?id=1dwNobesV4PdLTlKa8k3lx7IyRY69u3Kw",
+    "path_image": "/Assets/Waves/miniature.png",
     "name": "Waves App",
     "description": ["'Waves' es una aplicación diseñada para surfistas que muestra una selección con las mejores ubicaciones para practicar Surf 🌊.",
     "La aplicación permite el registro de nuevos usuarios, el guardado de las ubicaciones y su gestión en el área de usuario. El FRONTEND conecta con una API envía peticiones una BASE DE DATOS SQL almacenada en RAILWAY, donde se encuentra toda la información necesaria para el correcto funcionamiento de la aplicación. "
@@ -117,7 +117,7 @@
   },
   {
     "id": 5,
-    "path_image": "https://drive.google.com/uc?id=1yND_-WPe_GAEvPr_M_QOCX-CCYtD5N8n",
+    "path_image": "/Assets/SuperEight/miniature.png",
     "name": "Super Eight",
     "description": ["'Super Eight' es una aplicación funcional que ofrece el servicio de alquiler de películas, con un diseño inspirado en la época de los 90's, siguiendo una inspiración retro 🎥👾. Los componentes de la aplicación simulan ventanas emergentes y con un aspecto sencillo que se adapta completamente a las funcionalidades de la web pero que intentan emular este estilo 'tecnología vintage'.",
     "La aplicación permite la navegación entre las distintas pantallas que la componen y su diseño está adaptado a la resolución a distintos dispositivos.",
@@ -135,7 +135,7 @@
   },
   {
     "id": 6,
-    "path_image": "https://drive.google.com/uc?id=1cfvecN7s6aK9Ot-M18PFqyx9DCe7z-i-",
+    "path_image": "/Assets/AsianFood/miniature.png",
     "name": "Asian Food",
     "description": ["Diseño y desarrollo de web responsive para restaurante 'Asian Food', negocio local de gastronomía asiática 🍣🍙.",
     "Para el diseño de la web se han tenido en cuenta unos principios corporativos básicos, como son los colores principales, secundarios y las tipografías que se utilizan para el diseño y maquetación de las páginas y dotarlas de una coherencia visual, siempre dentro de una temática asiática. "
@@ -158,7 +158,7 @@
   },
   {
     "id": 7,
-    "path_image": "https://drive.google.com/uc?id=1oE7VzSlAU3DAGWv2c6ytDIicR1yIiffz",
+    "path_image": "/Assets/BookZone/miniature.png",
     "name": "Book-Zone",
     "description": ["'Book-Zone' es una web que ofrece los servicios de una librería online 📖📚.",
     "El Frontend está desarrollada con REACT y MATERIAL UI. La aplicación permite la navegación entre las distintas pantallas que la componen y su diseño está adaptado a la resolución a distintos dispositivos. Sus páginas principales son HOME, BOOKS, BOOK-DETAIL y ADD-BOOK, que permite al backend el registro de nuevos libros"
@@ -178,7 +178,7 @@
   },
   {
     "id": 8,
-    "path_image": "https://drive.google.com/uc?id=1-XFvH8VhFDNCK_b80HLDJ0wU_DCJTQDz",
+    "path_image": "/Assets/CafeOslo/miniature.png",
     "name": "Café Oslo",
     "description": ["'Café Oslo' es una web diseñada para una cafetería ☕️🍪🍰.",
     "Con una estética sencilla y una estructura HTML5 con BOOTSTRAP, el contenido de la página se centra en una sola página. La web permite su visualización en cualquier dispositivo."
