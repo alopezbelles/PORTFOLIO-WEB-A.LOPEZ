@@ -40,7 +40,7 @@ function Contact() {
       </Col>
       <Col className="col4Design">
         <h2>MY PORTFOLIO:</h2>
-        <a href="https://drive.google.com/file/d/12zuAqW0yPMnrGQqBUaldvuMazk2hgEm5/view?usp=share_link">
+        <a href="https://drive.google.com/file/d/123kNstp4182gKEPwn4s3qUTtuotBedHN/view?usp=sharing">
           <Button text="Download"></Button>
         </a>
       </Col>

@@ -13,7 +13,7 @@ import "./About.css";
 
 function About() {
   return (
-    <Container fluid className="aboutDesign" >
+    <Container fluid className="aboutDesign">
       {/* <video autoPlay muted loop playsInline className="video-background">
         <source src={bgVideo} />
       </video> */}
@@ -46,6 +46,15 @@ function About() {
       </Col>
       <Col className="col2Design">
         <h1>Work Experience</h1>
+        <div className="infoContainer">
+          <h2 className="yearsText">2023 - NOW </h2>
+          <div className="paragraphs">
+            <p>
+              SOFTWARE DEVELOPER en FORLOPD - Seguridad y Privacidad de Datos
+              S.L.
+            </p>
+          </div>
+        </div>
         <div className="infoContainer">
           <h2 className="yearsText">2017 - 2022</h2>
           <div className="paragraphs">
@@ -102,7 +111,6 @@ function About() {
               <p>EDUCACIÓN OBLIGATORIA + BACHILLERATO EN HUMANIDADES.</p>
             </div>
           </div>
-         
         </div>
       </Col>
     </Container>
