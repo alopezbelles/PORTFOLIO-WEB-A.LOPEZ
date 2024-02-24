@@ -28,19 +28,19 @@ function About() {
           <p>
             {" "}
             Me llamo <b>Alejandro López</b>y soy{" "}
-            <b>Diseñador gráfico + Full Stack Developer. </b>En constante
-            formación en ambos sectores, y titulado en el Bootcamp presencial de
-            Full Stack Developer en <b>GEEKHUBS ACADEMY (Valencia)</b>. Mi
-            objetivo actual es la especialización en el{" "}
+            <b>Diseñador gráfico + Full Stack Developer. </b>Mi formación como
+            Full Stack Developer culminó con la titulación obtenida tras
+            completar el Full Stack Developer en{" "}
+            <b>GEEKHUBS ACADEMY (Valencia)</b>, reconocida academia en el ámbito
+            tecnológico. Mi objetivo actual es la especialización en el{" "}
             <b> desarrolloFRONTEND</b> de webs y aplicaciones.
           </p>
           <p>
-            Diseñador de Interiores graduado en 2016, de forma orgánica fui
-            ampliando mi formación hacia el{" "}
-            <b>diseño gráfico y la producción y postproducción digital.</b> Me
-            considero una persona creativa, dinámica y curiosa. Siempre en
-            constante formación, dispuesto a aprender cosas nuevas y a compartir
-            experiencias con la gente que me rodea.
+            mi trayectoria en diseño y tecnología me ha proporcionado una{" "}
+            <b>perspectiva 360º</b> sobre las necesidades de proyectos y
+            clientes al enfrentar cualquier desafío. Soy una persona proactiva,
+            independiente y con facilidad para trabajar en equipo,
+            características que valoro y aplico en mi día a día profesional..
           </p>
         </div>
       </Col>
