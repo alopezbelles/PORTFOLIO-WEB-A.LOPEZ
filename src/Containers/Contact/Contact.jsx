@@ -30,13 +30,13 @@ function Contact() {
         <a href="mailto:alopezbelles@gmail.com">
           <Image className="logoDesign" src={logoMail}></Image>
         </a>
-        <a href="tel:+34662583482">
+        {/* <a href="tel:+34662583482">
           <Image className="logoDesign" src={logoPhone}></Image>
-        </a>
+        </a> */}
       </Col>
       <Col className="col3DesignContact">
         <p className="dataContact">alopezbelles@gmail.com</p>
-        <p className="dataContact">+34 662 583 482</p>
+        {/* <p className="dataContact">+34 662 583 482</p> */}
       </Col>
       <Col className="col4Design">
         <h2>MY PORTFOLIO:</h2>
